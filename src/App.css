@@ -1,0 +1,13 @@
+/* #e6e2dd
+#373a36
+#d48166 */
+h5:hover {
+  color: #e6e2dd;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  font-family: Ubuntu;
+}
